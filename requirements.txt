@@ -1,0 +1,8 @@
+google-cloud-aiplatform
+google-cloud-bigquery
+pandas
+matplotlib
+seaborn
+python-dotenv
+# Assuming 'adk' is installed globally or via a specific internal package.
+# If adk requires specific libs, add them here.
